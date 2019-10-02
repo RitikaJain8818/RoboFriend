@@ -15,14 +15,14 @@ h1 {
 .right_arm, 
 .left_leg, 
 .right_leg {
-	 background-color: #5f93e8;
+	 background-color: #5f93e7;
 }
 
 .head { 
 	width: 200px; 
 	margin: 0 auto; 
 	height: 150px; 
-	border-radius: 200px 200px 0 0; 
+	border-radius: 200px 300px 0 0; 
 	margin-bottom: 10px;
 } 
 
@@ -37,7 +37,7 @@ h1 {
 
 .upper_body { 
 	width: 300px; 
-	height: 150px;
+	height: 250px;
 	display: flex; 
 } 
 
